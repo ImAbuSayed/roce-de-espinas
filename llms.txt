@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-espinas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roce de espinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-espinas/) |
+| **Get License** | [Get a Licensing Quote for Roce de espinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-espinas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3768)
+- [Telegram](https://t.me/AbuSayedMusic/3784)
 
 ---
 
