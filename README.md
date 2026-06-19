@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-espinas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Roce de espinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-espinas/) |
+| **Get License** | [Secure Licensing Rights for Roce de espinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-espinas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `63e375af916db51684d4d30f2803b5009f78559b19439e8aee263f32785a9a27` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

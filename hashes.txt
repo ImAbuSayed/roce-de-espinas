@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de espinas
+
+This log tracks the cryptographic history and versioning for the song **Roce de espinas** (roce-de-espinas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:57:24.510625 | `v1` | `63e375af916db51684d4d30f2803b5009f78559b19439e8aee263f32785a9a27` | `1e7e3ef0ce0a2988f21da4b18d64f5a3733a2bcbc1b3709e622b4cdb332e385e` | `2026-06-20_roce-de-espinas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
