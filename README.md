@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-espinas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Roce de espinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-espinas/) |
+| **Get License** | [Get License For Roce de espinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-espinas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de fuego, un veneno sagrado
+> La pista está ardiendo, te tengo a mi lado
+> Ese roce de espinas, letal y deseado
+> La noche es nuestra, mi ángel malvado
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
